@@ -1,0 +1,8 @@
+gradio
+gTTS
+moviepy
+SpeechRecognition
+tensorflow
+pickle
+sklearn
+numpy
