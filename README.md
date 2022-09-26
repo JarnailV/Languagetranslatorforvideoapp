@@ -4,7 +4,7 @@
 FYP Project By
 ```bash
     Jarnail Valasai 1812300
-    Ritick Kumar 1812317
+    Ritick Maheshwari 1812317
 ```
 
 
