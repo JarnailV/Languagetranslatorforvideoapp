@@ -31,3 +31,14 @@ Then deploy frontend, open the project in VS Code
 Open http://localhost:3000 to view it in the browser.
 Easy Signup/Login and Upload the video on the dashboard and wait for translation to complete
 
+
+## Screenshots
+##
+##Homepage
+![App Screenshot](https://i.ibb.co/drfk59Y/Screenshot-2022-09-26-at-9-25-07-AM.png)
+
+
+
+##Dashboard
+![App Screenshot](https://i.ibb.co/r0dFy55/Whats-App-Image-2022-09-26-at-9-20-14-AM.jpg)
+
